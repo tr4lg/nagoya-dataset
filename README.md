@@ -31,10 +31,8 @@
 
 ## 公開者・問い合わせ先
 
-名古屋大学大学院工学研究科
+東京大学大学院教育学研究科
 
 [宮田玲](https://researchmap.jp/reimiyata/)
 
-miyata.rei.f2[※]f.mail.nagoya-u.ac.jp
-
-[※]は@に置き換えてください。
+tr4lg-group　[アットマーク]　g.ecc.u-tokyo.ac.jp
