@@ -5,7 +5,7 @@
 ## 翻訳資源一覧
 
 * 自治体対訳文書集（順次公開予定）
-* [自治体対訳文集]((https://github.com/tr4lg/nagoya-dataset/tree/master/parallel-sentences)) (2023年8月29日公開)
+* [自治体対訳文集](https://github.com/tr4lg/nagoya-dataset/tree/master/parallel-sentences) (2023年8月29日公開)
 * [自治体対訳用語集](https://github.com/tr4lg/nagoya-dataset/tree/master/terminology)
 
 ## 自治体対訳用語集について
